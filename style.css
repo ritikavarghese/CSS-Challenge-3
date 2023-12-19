@@ -1,0 +1,27 @@
+h1{
+    color:rgb(85, 61, 1);
+    font-style: italic;
+    font-size:45px;
+}
+
+p {
+    color: rgb(105, 80, 12);
+    text-align: center;
+    font-style:oblique;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.source {
+    font-style: italic;
+}
+
+.cheese {
+    height:450px
+}
